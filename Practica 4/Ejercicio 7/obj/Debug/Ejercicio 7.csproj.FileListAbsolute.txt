@@ -1,0 +1,6 @@
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\Practica 4\Ejercicio 7\obj\Debug\Ejercicio 7.csprojResolveAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\Practica 4\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\Practica 4\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\Practica 4\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\Practica 4\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\Practica 4\Ejercicio 7\obj\Debug\Ejercicio 7.pdb
