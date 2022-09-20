@@ -1,0 +1,6 @@
+C:\Users\edgar\Documents\SharpDevelop Projects\Practica 2\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\edgar\Documents\SharpDevelop Projects\Practica 2\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\edgar\Documents\SharpDevelop Projects\Practica 2\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\edgar\Documents\SharpDevelop Projects\Practica 2\Ejercicio 4\obj\Debug\Ejercicio 4.csprojResolveAssemblyReference.cache
+C:\Users\edgar\Documents\SharpDevelop Projects\Practica 2\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\edgar\Documents\SharpDevelop Projects\Practica 2\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
